@@ -8,19 +8,17 @@ Examples and interactive plots for the thesis manuscript
 ### Chapter 4
 
 
-#### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/img/Celastraceae_sunburst_pos.html)
+#### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/assets/C5_2_Inhibitors_PF1600P_Wnt_Treemap.html)
 
-#### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/img/Celastraceae_sunburst_neg.html)
+#### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/assets/C5_2_Inhibitors_PF1600P_Wnt_Treemap.html)
 
 #### Fig 4.A [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/img/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
 
-#### Fig 3 [**Chemical Class Cnnotation Coverage in POSITIVE Ionizatio Mode**](/img/Chemical_class_Celastraceae.html)
 
+#### Supplementary Fig 4.2.1 [**Distribution plots of the Annotation Component (AC), Literature Component (LC), and Priority Score (PS) values**](/img/C4_2_S1_AC_LC_PS_hist.html)
 
-#### Supplementary Fig S3 [**Ion-Identity Feature Based Molecular Network in positive mode for Hymenocardia punctata**]
+#### [**Full Inventa Results for the 1 600 NEs collection**](/assets/C_4_2_Table_Inventa_PF1600_results.html)
 
-
-#### Supplementary Fig S4 [**Treemap visualization of the chemical classes annotations for Hymenocardia punctata**]
 
 
 ### Chapter 5
