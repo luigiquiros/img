@@ -8,7 +8,7 @@ Examples and interactive plots for the thesis manuscript
 ### Chapter 4
 
 
-#### Fig 3 [**Celastraceae Set Interactive Sunburstplot in POSITIVE Ionization Mode**](/assets/C5_2_Inhibitors_PF1600P_Wnt_Treemap.html)
+#### Fig 1 [**Ion map plot for Entandropghragma candollei original ethyl acetate extract**](/assets/C4_2_E_candollei_pos_ionmap.html)
 
 #### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/assets/C5_2_Inhibitors_PF1600P_Wnt_Treemap.html)
 
@@ -17,7 +17,7 @@ Examples and interactive plots for the thesis manuscript
 
 #### Supplementary Fig 4.2.1 [**Distribution plots of the Annotation Component (AC), Literature Component (LC), and Priority Score (PS) values**](/img/C4_2_S1_AC_LC_PS_hist.html)
 
-#### [**Full Inventa Results for the 1 600 NEs collection**](/assets/C_4_2_Table_Inventa_PF1600_results.html)
+#### Additional table [**Full Inventa Results for the 1 600 NEs collection**](/assets/C_4_2_Table_Inventa_PF1600_results.html)
 
 
 
