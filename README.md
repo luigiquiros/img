@@ -15,11 +15,17 @@ Examples and interactive plots for the thesis manuscript
 #### Fig 4.A [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/img/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
 
 
-#### Supplementary Fig 4.2.1 [**Distribution plots of the Annotation Component (AC), Literature Component (LC), and Priority Score (PS) values**](/img/C4_2_S1_AC_LC_PS_hist.html)
+#### Supplementary Fig S4.2.1 [**Distribution plots of the Annotation Component (AC), Literature Component (LC), and Priority Score (PS) values**](/img/C4_2_S1_AC_LC_PS_hist.html)
+
+#### Supplementary Fig S4.2.4 [**Ion map plot for Entandropghragma utile original ethyl acetate extract**](/assets/C4_2_E_utile_pos_ionmap.html)
+
+#### Supplementary Fig S4.2. [**Ion map plot for Azima tetracantha original ethyl acetate extract**](/assets/C4_2_A_tetracantha_pos_ionmap.html)
+
+#### Additional table [**Full Inventa Results comparison Aligned vs unaligned for the Celastraceae set**](/assets/C_4_2_Inventa_aligned_unaligned_celastraceae_results_full.html)
+
+#### Additional table [**Reduced Inventa Results comparison Aligned vs unaligned for the Celastraceae set**](/assets/C_4_2_Inventa_aligned_unaligned_celastraceae_results_reduced.html)
 
 #### Additional table [**Full Inventa Results for the 1 600 NEs collection**](/assets/C_4_2_Table_Inventa_PF1600_results.html)
-
-
 
 ### Chapter 5
 
