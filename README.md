@@ -5,14 +5,18 @@ Examples and interactive plots for the thesis manuscript
 
 ## Thesis interactive tables and plots
 
+### Chapter 3
+
+#### Supplementary Table S3.1 [**Inventa's results for the Celastraceae Set**](/assets/Inventas_results_PDF.pdf)
+
 ### Chapter 4
 
 
-#### Fig 1 [**Ion map plot for Entandropghragma candollei original ethyl acetate extract**](/assets/C4_2_E_candollei_pos_ionmap.html)
+#### Fig 4.2.1 [**Ion map plot for Entandropghragma candollei original ethyl acetate extract**](/assets/C4_2_E_candollei_pos_ionmap.html)
 
-#### Fig 3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/assets/C5_2_Inhibitors_PF1600P_Wnt_Treemap.html)
+#### Fig 4.2.3 [**Celastraceae Set Interactive Sunburstplot in NEGATIVE Ionization Mode**](/assets/C5_2_Inhibitors_PF1600P_Wnt_Treemap.html)
 
-#### Fig 4.A [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/assets/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
+#### Fig 4.2.4.A [**TMAP Visualization of Annotation Coverage in POSITIVE Ionization Mode**](/assets/Celastraceae_annotation_vs_lotusdnp_tmap_2.html)
 
 
 #### Supplementary Fig S4.2.1 [**Distribution plots of the Annotation Component (AC), Literature Component (LC), and Priority Score (PS) values**](/assets/C4_2_S1_AC_LC_PS_hist.html)
