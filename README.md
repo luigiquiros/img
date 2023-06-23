@@ -7,8 +7,8 @@ Examples and interactive plots for the thesis manuscript
 
 ### Chapter 2 
 
-#### Fig 2.1.3A [**Celastraceae Set Sunburst Pos mode**](/Celastraceae_sunburst_pos.html)
-#### Fig 2.1.3B [**Celastraceae Set Sunburst Neg mode**](/Celastraceae_sunburst_neg.html)
+#### Fig 2.1.3A [**Celastraceae Set Sunburst Pos mode**](/Celastracea_sunburst_pos.html)
+#### Fig 2.1.3B [**Celastraceae Set Sunburst Neg mode**](/Celastracea_sunburst_neg.html)
 
 ### Chapter 3
 
