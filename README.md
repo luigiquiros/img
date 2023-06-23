@@ -5,6 +5,11 @@ Examples and interactive plots for the thesis manuscript
 
 ## Thesis interactive tables and plots
 
+### Chapter 2 
+
+#### Fig 2.1.3A [**Celastraceae Set Sunburst Pos mode**](/Celastraceae_sunburst_pos.html)
+#### Fig 2.1.3B [**Celastraceae Set Sunburst Neg mode**](/Celastraceae_sunburst_neg.html)
+
 ### Chapter 3
 
 #### Supplementary Table S3.1 [**Inventa's results for the Celastraceae Set**](/Inventas_results_PDF.pdf)
